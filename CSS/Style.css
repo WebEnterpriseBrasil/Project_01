@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.home{
+    background-image: url(../Imagens/imagem_fundo.jpg);
+    height: 500px;
+    
+}
+header h1, h2, p, a{
+    padding: 10px;
+    margin: 10px;
+}
+header img{
+    margin-left: 10%;
+    width: 100px;
+    height: 100px;
+}
+.cardapio {
+    color: black;
+    background-color: white;
+    border-radius: 5%;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 43%;
+    
+}
+header p{
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h1{
+    color: white;
+    font-size: 55px;
+}
+header h2{
+    color: white;
+    font-size: 30px;
+}
+.teste{
+    background-color: rgba(0, 0, 0, 0.425);
+    height: 500px;
+}
+header ul{
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    padding: 2.5%;
+    
+    
+}
+header a{
+    color: black;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 5%;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
