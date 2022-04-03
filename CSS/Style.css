@@ -67,5 +67,25 @@ header a{
     text-decoration: none;
     
 }
+/* Cardápio */
+
+.menu-cardapio h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+.menu-cardapio p{
+    text-align: center;
+    margin: 3%;
+}
+.menu{
+    display: flex;
+    
+}
+.menu img{
+    margin-bottom: 40%;
+    width: 80%;
+}
+
 
 
